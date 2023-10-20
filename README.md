@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tom-Douglas in Sabetha, Kansas, USA.
+- 🌱 I built my own fiction railroad called "Douglasville"
+- 💞️ I’m looking to solve an installation issue so I can talk to my layout.  My old laptop works great but my new doesn't.
+- 📫 How to reach me ... tomdo_john316@yahoo.com
