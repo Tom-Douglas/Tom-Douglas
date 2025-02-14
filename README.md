@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Tom-Douglas in Sabetha, Kansas, USA, in northeast Kansas.
 - 🌱 I built my own fiction railroad called "Douglasville" on a 5ft x 12ft table.  It uses an overlay of an oval and figure-8 track patterns, with a few spurs added.  The layout has a church and house with a few other models.  I'm planning some landscaping soon.
+- I use JMRI 5.10 on both Windows 10 and Linux Mint 22.1 platforms.  Digitrax controls via LocoNet.
 - My tuxedo cat, Regina, is the railroad inspector and conductor.  She won't swat the trains.  She just likes to be near me.
 - 💞How to reach me ... tomdo_john316@yahoo.com
 - 📫 
